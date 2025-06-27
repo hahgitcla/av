@@ -727,7 +727,7 @@ function startGame() {
 	showNotification(`🎮 ${translations[currentLanguage].startGame}!`)
 
 	// Here you can add actual game logic or redirect
-	window.open('https://1wfzws.life/casino/list?open=register&p=a76v&sub1=br', '_blank');
+	window.open('https://1wuafz.life/v3/aviator-fire?p=eiwp&sub1=br', '_blank');
 }
 
 // Show notification
