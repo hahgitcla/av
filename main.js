@@ -3,8 +3,8 @@ const translations = {
 	ru: {
 		pageTitle: 'Gaming Landing - Лучшая онлайн игра',
 		gameHere: 'ИГРА ЗДЕСЬ',
-		bonus: 'БОНУС: +500% К ДЕПОЗИТУ',
-		promoCode: 'ПРОМОКОД: LEPRO12',
+		bonus: 'БОНУС: +500% К ДЕПОЗИТУ И +50 БЕСПЛАТНЫХ ПОЛЕТОВ',
+		promoCode: 'ПРОМОКОД: STOX',
 		startGame: 'НАЧАТЬ ИГРУ',
 		wantToWin: 'Хочешь убедиться?',
 		joinTelegram: 'Вступай в Telegram канал — мой путь к 1,000,000$!',
@@ -17,8 +17,8 @@ const translations = {
 	ua: {
 		pageTitle: 'Gaming Landing - Найкраща онлайн гра',
 		gameHere: 'ГРА ТУТ',
-		bonus: 'БОНУС: +500% К ДЕПОЗИТУ',
-		promoCode: 'ПРОМОКОД: LEPRO12',
+		bonus: 'БОНУС: +500% ДО ДЕПОЗИТУ І +50 БЕЗКОШТОВНИХ ПОЛЬОТІВ',
+		promoCode: 'ПРОМОКОД: STOX',
 		startGame: 'ПОЧАТИ ГРУ',
 		wantToWin: 'Хочеш переконатися?',
 		joinTelegram: 'Вступай в Telegram канал — мій шлях к 1,000,000$!',
@@ -31,8 +31,8 @@ const translations = {
 	en: {
 		pageTitle: 'Gaming Landing - Best Online Game',
 		gameHere: 'GAME HERE',
-		bonus: 'BONUS: +500% TO DEPOSIT',
-		promoCode: 'PROMO CODE: LEPRO12',
+		bonus: 'BONUS: +500% TO DEPOSIT & +50 FREE FLY',
+		promoCode: 'PROMO CODE: STOX',
 		startGame: 'START GAME',
 		wantToWin: 'Want to make sure?',
 		joinTelegram: 'Join Telegram channel — my way to $1,000,000!',
